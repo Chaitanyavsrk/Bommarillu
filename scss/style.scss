@@ -126,7 +126,7 @@ h1, h2, h3, h4, h5,
 
 	.navbar-nav {
 		@include media-breakpoint-down(md){
-			padding-bottom: 10px;
+			padding-bottom: 0px;
 		}
 		> .nav-item {
 			> .nav-link {
